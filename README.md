@@ -1,9 +1,5 @@
 # Community Safety, Health, and Wellness App
 
-## Documentation Guide
-
----
-
 ## Table of Contents
 
 1. [Document Purpose](#document-purpose)
